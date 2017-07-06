@@ -265,7 +265,7 @@ For simplicity, only one way of adding the ids to the existing list (empty by de
 
 ===== RescoreBuilder
 
-`RecoreBuilder.Rescorer` was merged with `RescoreBuilder`, which now is an abstract superclass. QueryRescoreBuilder currently is its only implementation.
+`RescoreBuilder.Rescorer` was merged with `RescoreBuilder`, which now is an abstract superclass. QueryRescoreBuilder currently is its only implementation.
 
 ===== PhraseSuggestionBuilder
 
